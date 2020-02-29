@@ -45,6 +45,11 @@ img{
    margin: 5% 0px;
 }
 
+body {
+   background-image: "ouc.jpg";
+   background-size: cover; /* Resize the background image to cover the entire container */
+}
+
 
 @media screen and (max-width: 1400px) and (min-width: 801px) {
    .buttonS{
